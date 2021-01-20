@@ -1,4 +1,4 @@
-# Portfolio-Site-v2
+# Portfolio-Site
 This is a new and improved portfolio website. 
 
 Prerequisites:

@@ -62,6 +62,12 @@ body{
 .portfolio-item-wrapper {
     position: relative;
 }
+.linkedin-tag {
+    position: center;
+    padding-left: 540px;
+    
+    
+}
 
 .portfolio-img-background {
     height: 350px;

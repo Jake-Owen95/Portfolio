@@ -59,9 +59,19 @@ body{
     grid-template-columns: 1fr 1fr 1fr;
 }
 
+.skills-items-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
 .portfolio-item-wrapper {
     position: relative;
 }
+
+.skills-item-wrapper {
+    position: relative;
+}
+
 .linkedin-tag {
     position: center;
     padding-left: 540px;
@@ -75,6 +85,15 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+.skills-img-background {
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 40px;
 }
 
 .img-text-wrapper {

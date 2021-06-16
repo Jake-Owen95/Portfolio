@@ -62,6 +62,7 @@ body{
 .skills-items-wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 60px;
 }
 
 .portfolio-item-wrapper {
@@ -89,7 +90,7 @@ body{
 
 .skills-img-background {
     height: 100px;
-    width: 100px;
+    width: 127px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
